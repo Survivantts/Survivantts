@@ -9,7 +9,7 @@ Desenvolver tecnologias que proporcionem uma experiência única ao usuário.
 
 **Missão:**</br>
 Garantir segurança e confiabilidae aos usuários.
-
+   
 **Valores:**</br>
 Focar no que conseguimos aprender no caminho e trabalhar em equipe.
 
@@ -19,3 +19,14 @@ Para mais informações acesse nosso repositório: [Lumora](https://github.com/S
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/23f0/512.gif" alt="⏰" width="32" height="32"> Entre em contato conosco:
 [![Gmail Badge](https://img.shields.io/badge/-survivantts@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:survivantts@gmail.com)](mailto:survivantts@gmail.com)
+
+## Partcipantes
+🐼[Amanda](https://github.com/AmandaSimao01)</br>
+
+🎨[Yuri/Thalita](https://github.com/YuriThali)</br>
+
+🎶[Renara](https://github.com/Renaras)</br>
+
+🦋[Yasmin](https://github.com/yasmin0liver)</br>
+
+♟[Roger](https://github.com/rogermsarmento)
