@@ -20,7 +20,7 @@ Para mais informações acesse nosso repositório: [Lumora](https://github.com/S
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/23f0/512.gif" alt="⏰" width="32" height="32"> Entre em contato conosco:
 [![Gmail Badge](https://img.shields.io/badge/-survivantts@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:survivantts@gmail.com)](mailto:survivantts@gmail.com)
 
-## Partcipantes
+## Participantes
 🐼[Amanda](https://github.com/AmandaSimao01)</br>
 
 🎨[Yuri/Thalita](https://github.com/YuriThali)</br>
