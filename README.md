@@ -8,7 +8,7 @@ Uma empresa criada durante a disciplina de POO.
 Desenvolver tecnologias que proporcionem uma experiência única ao usuário.
 
 **Missão:**</br>
-Garantir segurança e confiabilidae aos usuários.
+Garantir segurança e confiabilidade aos usuários.
    
 **Valores:**</br>
 Focar no que conseguimos aprender no caminho e trabalhar em equipe.
@@ -21,12 +21,20 @@ Para mais informações acesse nosso repositório: [Lumora](https://github.com/S
 [![Gmail Badge](https://img.shields.io/badge/-survivantts@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:survivantts@gmail.com)](mailto:survivantts@gmail.com)
 
 ## Participantes
-🐼[Amanda](https://github.com/AmandaSimao01)</br>
+
+🐼[Amanda](https://github.com/AmandaSimao01)
+
+<img src="IMGS/amanda.jpg" width=200 height=200>
 
 🎨[Yuri/Thalita](https://github.com/YuriThali)</br>
 
+<img src="IMGS/yuri.jpg" width=200 height=200>
+
 🎶[Renara](https://github.com/Renaras)</br>
+
+<img src="IMGS/renara.jpg" width=200 height=200>
 
 🦋[Yasmin](https://github.com/yasmin0liver)</br>
 
-♟[Roger](https://github.com/rogermsarmento)
+<img src="IMGS/yasmin.jpg" width=200 height=200>
+
