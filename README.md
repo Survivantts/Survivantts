@@ -25,16 +25,20 @@ Para mais informações acesse nosso repositório: [Lumora](https://github.com/S
 🐼[Amanda](https://github.com/AmandaSimao01)
 
 <img src="IMGS/amanda.jpg" width=200 height=200>
+Dev - 17 anos.
 
 🎨[Yuri/Thalita](https://github.com/YuriThali)</br>
 
 <img src="IMGS/yuri.jpg" width=200 height=200>
+Dev - 16 anos.
 
 🎶[Renara](https://github.com/Renaras)</br>
 
 <img src="IMGS/renara.jpg" width=200 height=200>
+Designer - 17 anos.
 
 🦋[Yasmin](https://github.com/yasmin0liver)</br>
 
 <img src="IMGS/yasmin.jpg" width=200 height=200>
+Designer - 17 anos.
 
